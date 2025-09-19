@@ -16,7 +16,7 @@ A collection of deep learning  projects demonstrating CycleGAN-based image trans
 **Notebook:** [CycleGAN Colab Notebook](https://colab.research.google.com/drive/1IBqrzfUyAd6SO7HiPCIiZaAxXeAFqXEk)  
 **Dataset References:**
 - [UTK Face Cropped](https://www.kaggle.com/datasets/abhikjha/utk-face-cropped)
-- [nceptionv3](https://www.kaggle.com/code/bmarcos/image-recognition-gender-detection-inceptionv3/data)
+- [inceptionv3](https://www.kaggle.com/code/bmarcos/image-recognition-gender-detection-inceptionv3/data)
 - [Dog Face Dataset]( https://www.kaggle.com/datasets/wutheringwang/dog-face-recognition)  
 - [Cat Dataset](https://www.kaggle.com/datasets/azmeenasiraj/cat-faces-data-set)  
 
